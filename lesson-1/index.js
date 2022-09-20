@@ -1,0 +1,13 @@
+"use strict";
+exports.__esModule = true;
+var str;
+var x = false;
+var score;
+score = 123;
+score = "123";
+var myScore1 = 12;
+var myScore2 = "12";
+var myScore3 = false;
+var xss = 1;
+str = "abc";
+console.log(str);
